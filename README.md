@@ -4,7 +4,7 @@
 
 ***O projektu:***
 
-*Objevte jednoduchost ve vytvoření vlastního síťového úložiště NAS pomocí Raspberry Pi. NAS (Network Attached Storage) je jako váš vlastní soukromý úložný prostor, kde můžete ukládat a sdílet soubory mezi různými zařízeními. S pomocí softwaru Open Media Vault, uživatelsky přívětivého nástroje pro správu dat, je nastavení tohoto úložiště snadné a bezproblémové. Takže si můžete být jisti, že vytvoření vlastního NAS je jednoduché a přináší vám přístupné úložiště pro vaše soubory a média.*
+*Objevte jednoduchost ve vytvoření vlastního síťového úložiště NAS pomocí Raspberry Pi. NAS (Network Attached Storage) je jako váš vlastní soukromý úložný prostor, kde můžete ukládat a sdílet soubory mezi různými zařízeními. S pomocí softwaru [Open Media Vault](https://en.wikipedia.org/wiki/OpenMediaVault), uživatelsky přívětivého nástroje pro správu dat, je nastavení tohoto úložiště snadné a bezproblémové. Takže si můžete být jisti, že vytvoření vlastního NAS je jednoduché a přináší vám přístupné úložiště pro vaše soubory a média.*
 
 <br>
 
