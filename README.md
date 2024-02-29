@@ -58,4 +58,4 @@ Pro náš projekt stačí jednoduchý nástroj, který nám umožní stáhnout o
 
 5. Nyní je vše připravené k instalaci software Open media valout. Tuto instalaci spustíme jednoduše a to příkazem `wget -O - https://raw.githubusercontent.com/OpenMediaVault-Plugin-Developers/installScript/master/install | sudo bash` *(tento příkaz stáhne tzv script/zkratku pro instalci software a rovnou jej spustí)* Jakmile se software nainstaluje doporučuji opět restart zařízení.
 
-6. Nyní se muůžeme pustit do konfigurace vašeho domácího uložiště (NAS). To spustíme ve vašem webovém zařízení kde zadáme domácí ip adresu RPi.
+6. Nyní se můžeme pustit do konfigurace vašeho domácího uložiště (NAS). To spustíme ve vašem webovém zařízení kde zadáme domácí ip adresu RPi.
